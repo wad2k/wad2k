@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 <br />
 
 ### about me 
-🌱 i’m a systems test engineer with a bachelors degree in computer science. </br>
+🌱 i’m a systems test engineer with a bachelors degree in computer science.
+🔭 currently working on automation using playwright + typescript
+</br>
 
 ![GitHub Stats](https://github-readme-stats-api-seven.vercel.app/api?username=wad2k&show_icons=true&theme=tokyonight)
 

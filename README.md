@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 ### about me 
 🌱 i’m a systems test engineer with a bachelors degree in computer science. </br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wad2k&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wad2k&layout=compact)
+![GitHub Stats](https://github-readme-stats.jstrieb.dev/api?username=wad2k&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.jstrieb.dev/api/top-langs/?username=wad2k&layout=compact&theme=tokyonight)
+
 
 
 

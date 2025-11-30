@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br />
 
 ### about me 
-🌱 I’m a Systems Test Engineer with a bachelors degree in Computer Science. </br>
+🌱 i’m a systems test engineer with a bachelors degree in computer science. </br>
 
 <br />
 

@@ -26,8 +26,11 @@ Here are some ideas to get you started:
 🌱 i’m a systems test engineer with a bachelors degree in computer science. </br>
 🔭 currently working on automation using playwright + typescript. </br>
 
-
-<div id = "header" align ="center">
+<div id = "header" align ="left">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=baileyc03&layout=compact&theme=github_dark"/>
 <br />
+
+<br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=wad2k.wad2k)
 

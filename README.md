@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 <br />
 
-### About Me 🚀
+### about me 
 🌱 I’m a Systems Test Engineer with a bachelors degree in Computer Science. </br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wad2k&show_icons=true&hide_border=true)
 <br />
 

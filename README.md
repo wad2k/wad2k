@@ -3,6 +3,9 @@
 <!--
 Here are some ideas to get you started:
 
+
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -21,6 +24,11 @@ Here are some ideas to get you started:
 
 ### about me 
 🌱 i’m a systems test engineer with a bachelors degree in computer science. </br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+
 
 <br />
 

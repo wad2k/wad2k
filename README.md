@@ -1,7 +1,6 @@
-## Hi there 👋
-
+## hello world, i'm jawad.
 <!--
-**wad2k/wad2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://www.linkedin.com/in/jzamancs/">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
+</a>
+
+<br />
+
+### About Me 🚀
+🌱 I’m a Systems Test Engineer with a bachelors degree in Computer Science. </br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wad2k&show_icons=true&hide_border=true)
+<br />
+

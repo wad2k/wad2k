@@ -28,7 +28,5 @@ Here are some ideas to get you started:
 
 <div id = "header" align ="left">
 
-<br />
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wad2k.wad2k)
 
